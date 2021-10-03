@@ -1,0 +1,11 @@
+{
+"appTitle" :"Todo App ",
+"settings" : "Settings",
+"theme" : "Theme",
+"language" : "Language" ,
+"dark" : "Dark",
+"light" : "Light",
+"home" : "Home" ,
+"mode" : "Mode"
+
+}
